@@ -13,6 +13,8 @@
       "@/config": ["./src/config"],
       "@/icons": ["./src/icons"],
       "@/types": ["./src/types"],
+      "@/store": ["./src/store"],
+
       "react": ["./node_modules/@types/react"]
     }
   }
